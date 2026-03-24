@@ -14,9 +14,6 @@ The analysis included:
 - logistic regression and decision tree models
 - evaluation using accuracy, confusion matrices, precision, recall, and F1-score
 
-## Main takeaway
-Some features, especially `Education_Level`, `Field_of_Study`, `Device_Used`, and `Platform_Used`, showed useful signal, but simple baseline models had limited predictive power overall.
-
 ## Tools used
 - Python
 - pandas
